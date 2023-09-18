@@ -6,4 +6,4 @@ y = np.array([1,4,9,16,25])
 
 plot.plot(x,y)
 #what could possibly be wrong here? (HINT HINT) ↓↓↓
-plot.shoe()
+plot.show()
