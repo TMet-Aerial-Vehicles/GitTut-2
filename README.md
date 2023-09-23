@@ -1,7 +1,6 @@
 Hello!<br>
-This is a very poorly written readme. Pay it no mind.
 Please help me fix my code, I can't figure it out.
-The code script should simply display a plot of an elementy parabola.
+The code script should simply display a plot of an elementary parabola.
 <br><br>
 To setup the python environement run the following commands:
 <ol>
